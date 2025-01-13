@@ -12,5 +12,4 @@ features:
   - title: Minecraft 存档下载与安装
     details: Download and install Minecraft saves.
 ---
-footer: Made by  with ❤️
----
+footer: Made by Mcenahle with ❤️. Powered by [Vuepress](https://vuepress.vuejs.org/zh/).
