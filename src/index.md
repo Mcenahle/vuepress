@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline:
+tagline: MC 知识库平台（测试用）
 actionText: 从安装材质包开始 →
 actionLink: /guide/install-datapacks/
 features:
