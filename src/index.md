@@ -1,7 +1,8 @@
 ---
 home: true
+heroText: MC 知识库平台
 heroImage: https://zh.minecraft.wiki/images/thumb/Crafting_Table_JE4_BE3.png/240px-Crafting_Table_JE4_BE3.png?738c8
-tagline: MC 知识库平台（测试用）
+tagline: 测试用
 actionText: 从安装材质包开始 →
 actionLink: /guide/install-datapacks/
 features:
