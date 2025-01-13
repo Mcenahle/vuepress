@@ -11,5 +11,6 @@ features:
     details: Download and install Minecraft shadowpacks.
   - title: Minecraft 存档下载与安装
     details: Download and install Minecraft saves.
-footer: Made by Mcenahle with ❤️. Powered by [Vuepress](https://vuepress.vuejs.org/zh/)
+
+<p style="text-align: center;">Made by Mcenahle with ❤️. Powered by <a href="https://vuepress.vuejs.org/zh/" target="_blank">Vuepress</a>.</p>
 ---
