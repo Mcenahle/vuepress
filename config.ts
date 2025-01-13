@@ -1,23 +1,27 @@
-module.exports = {
-  themeConfig: {
+export default {
+  theme: defaultTheme({
+    // 侧边栏数组
+    // 所有页面会使用相同的侧边栏
     sidebar: [
+      // SidebarItem
       {
-        title: '指南',   // 侧边栏的标题
-        path: '/guide/', // 链接到该目录下的某个页面
+        text: 'Foo',
+        prefix: '/foo/',
+        link: '/foo/',
         children: [
-          '/guide/getting-started.md',
-          '/guide/configuration.md',
-          '/guide/deployment.md'
-        ]
+          // SidebarItem
+          {
+            text: 'github',
+            link: 'https://github.com',
+            children: [],
+          },
+          // 字符串 - 页面文件路径
+          'bar.md', // 解析为 `/foo/bar.md`
+          '/ray.md', // 解析为 `/ray.md`
+        ],
       },
-      {
-        title: 'API 文档',
-        path: '/api/',
-        children: [
-          '/api/usage.md',
-          '/api/functions.md'
-        ]
-      }
-    ]
-  }
-};
+      // 字符串 - 页面文件路径
+      '/bar/README.md',
+    ],
+  }),
+}
