@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: https://zh.minecraft.wiki/images/thumb/Crafting_Table_JE4_BE3.png/240px-Crafting_Table_JE4_BE3.png?738c8
 tagline: MC 知识库平台（测试用）
 actionText: 从安装材质包开始 →
 actionLink: /guide/install-datapacks/
@@ -11,6 +11,5 @@ features:
     details: Download and install Minecraft shadowpacks.
   - title: Minecraft 存档下载与安装
     details: Download and install Minecraft saves.
-
-<p style="text-align: center;">Made by Mcenahle with ❤️. Powered by <a href="https://vuepress.vuejs.org/zh/" target="_blank">Vuepress</a>.</p>
 ---
+<p style="text-align: center;">Made by Mcenahle with ❤️. Powered by <a href="https://vuepress.vuejs.org/zh/" target="_blank">Vuepress</a>.</p>
