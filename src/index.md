@@ -2,14 +2,15 @@
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline:
-actionText: Quick Start →
-actionLink: /guide/
+actionText: 从安装材质包开始 →
+actionLink: /install-datapacks/
 features:
-  - title: Feature 1 Title
-    details: Feature 1 Description
-  - title: Feature 2 Title
-    details: Feature 2 Description
-  - title: Feature 3 Title
-    details: Feature 3 Description
+  - title: Minecraft 材质包下载与安装
+    details: Download and install Minecraft datapacks.
+  - title: Minecraft 光影下载与安装
+    details: Download and install Minecraft shadowpacks.
+  - title: Minecraft 存档下载与安装
+    details: Download and install Minecraft saves.
+---
 footer: Made by  with ❤️
 ---
