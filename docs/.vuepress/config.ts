@@ -14,14 +14,6 @@ export default defineUserConfig({
           '/guide/deployment.md',
         ]
       },
-      {
-        title: 'API 文档',
-        path: '/api/',
-        children: [
-          '/api/usage.md',
-          '/api/functions.md',
-        ]
-      }
     ],
   }),
 });
