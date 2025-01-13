@@ -3,7 +3,7 @@ home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline:
 actionText: 从安装材质包开始 →
-actionLink: /install-datapacks/
+actionLink: /guide/install-datapacks/
 features:
   - title: Minecraft 材质包下载与安装
     details: Download and install Minecraft datapacks.
